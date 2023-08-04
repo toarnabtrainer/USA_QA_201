@@ -26,7 +26,7 @@ https://www.onlinegdb.com/
 https://htmlcolorcodes.com/
 
 **HTML Tutorial Link:**<br>
-https://www.w3schools.com/html/html_tables.asp
+https://www.w3schools.com/html/
 
 **Selenium Text Tutorial Link:**<br>
 https://www.javatpoint.com/selenium-tutorial<br>
