@@ -6,11 +6,11 @@ https://www.mlsu.ac.in/econtents/16_EBOOK-7th_ed_software_engineering_a_practiti
 **Python Download Link:**<br>
 **Anaconda Download Link:** https://www.anaconda.com/products/distribution
 
-**How to uninstall Anaconda completely from Windows 10:**<br>
-https://www.youtube.com/watch?v=OUkHXMwu-JY
-
 **How to Install Anaconda on Windows 10 (2022):**<br>
 https://www.youtube.com/watch?v=UTqOXwAi1pE
+
+**How to uninstall Anaconda completely from Windows 10:**<br>
+https://www.youtube.com/watch?v=OUkHXMwu-JY
 
 **Online Python Editors:**<br>
 https://onecompiler.com/<br>
